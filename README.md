@@ -40,13 +40,13 @@ Follow these steps to get a local copy up and running:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/THATIPALLISAISHIVA/portfolio.git
+   git clone https://github.com/THATIPALLISAISHIVA/Codsoft-Task1.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd portfolio
+   cd Codsoft-Task1
    ```
 
 3. **Install dependencies:**
