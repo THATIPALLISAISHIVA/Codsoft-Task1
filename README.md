@@ -89,30 +89,6 @@ portfolio
 └── README.md
 ```
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please feel free to create a pull request or open an issue.
-
-1. **Fork the repository**
-2. **Create a new branch:**
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-3. **Commit your changes:**
-
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-
-4. **Push to the branch:**
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-5. **Open a pull request**
 
 ## Contact
 
@@ -126,12 +102,3 @@ Feel free to reach out to me via the following channels:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-### Instructions for Formatting:
-- **Headers**: Use `#` for main headers and `##` for sub-headers.
-- **Lists**: Use `-` for bullet points.
-- **Code Blocks**: Wrap commands and code snippets in triple backticks (\`\`\`). Use `plaintext` for directory structures.
-- **Links**: Format links with `[text](URL)` syntax.
-- **Bold Text**: Use `**text**` for emphasizing important sections like technologies and features.
-
-This README template provides a comprehensive overview of your portfolio project, making it easy for others to understand and contribute. Adjust sections and details according to your specific project needs and preferences.
